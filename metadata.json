@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart Irrigation System",
+  "description": "An AI-powered dashboard for monitoring and controlling a smart drip irrigation system. It visualizes real-time sensor data, weather forecasts, and uses an AI to make intelligent irrigation decisions.",
+  "requestFramePermissions": []
+}
